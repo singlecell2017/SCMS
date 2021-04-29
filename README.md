@@ -3,7 +3,7 @@
 ## Installation  	
 #### install from PyPI
 
-    python -m pip install --index-url https://test.pypi.org/simple/ --no-deps scms==0.0.3
+    python -m pip install --index-url https://test.pypi.org/simple/ --no-deps scms==0.0.4
     
 #### install from GitHub
 
